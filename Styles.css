@@ -113,7 +113,7 @@ color: rgba(255, 255, 255, 0.516);
 .Data1{
   position: absolute;
   text-align: right;
-  margin-left: 185px;
+  margin-left: 175px;
   margin-top: -37px;
   font-weight: 800;
   color: hsl(224, 30%, 27%);
@@ -121,7 +121,7 @@ color: rgba(255, 255, 255, 0.516);
 .Data2{
   position: absolute;
   text-align: right;
-  margin-left: 210px;
+  margin-left: 205px;
   margin-top: -37px;
 }
 #reaction{
