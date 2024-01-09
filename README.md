@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://supernova012.github.io/Result-Summary/)
+- Live Site URL: [Solution](https://supernova012.github.io/Result-Summary/)
 
 ### Built with
 
